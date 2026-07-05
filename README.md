@@ -16,7 +16,7 @@ This project demonstrates how conditional logic and email automation can simplif
 ---
 
 # 📖 Workflow Architecture
-[!image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/4e147d82322bf2199f97074115990edb507ff57a/Screenshot%202026-07-05%20151510.png)
+![image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/4e147d82322bf2199f97074115990edb507ff57a/Screenshot%202026-07-05%20151510.png)
 
 ---
 
@@ -132,11 +132,9 @@ The student immediately receives an automated email based on the evaluation.
 
 # 🖼 Workflow Screenshot
 
-<p align="center">
-  <img src="[./images/workflow.png](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/1794d9339476f5dcdc28a37b7d5d7632e4b0bf87/Screenshot%202026-07-05%20150434.png)" width="1000">
-</p>
+![image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/1794d9339476f5dcdc28a37b7d5d7632e4b0bf87/Screenshot%202026-07-05%20150434.png)
 
-[!image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/64b03a97086dd644782dd32e5ec0d7bf69f3651f/Screenshot%202026-07-05%20151713.png)
+![image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/64b03a97086dd644782dd32e5ec0d7bf69f3651f/Screenshot%202026-07-05%20151713.png)
 
 ---
 
