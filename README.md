@@ -136,6 +136,8 @@ The student immediately receives an automated email based on the evaluation.
   <img src="[./images/workflow.png](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/1794d9339476f5dcdc28a37b7d5d7632e4b0bf87/Screenshot%202026-07-05%20150434.png)" width="1000">
 </p>
 
+[!image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/64b03a97086dd644782dd32e5ec0d7bf69f3651f/Screenshot%202026-07-05%20151713.png)
+
 ---
 
 # 📧 Sample Emails
