@@ -16,10 +16,7 @@ This project demonstrates how conditional logic and email automation can simplif
 ---
 
 # 📖 Workflow Architecture
-
-<p align="center">
-  <img src="./images/architecture.png" width="900">
-</p>
+[!image alt](https://github.com/n8n-workflows-projects/Scholarship-eligibility-workflow/blob/4e147d82322bf2199f97074115990edb507ff57a/Screenshot%202026-07-05%20151510.png)
 
 ---
 
